@@ -1,0 +1,4 @@
+[submodule "dansanti/payment_webpay"]
+	path = dansanti/payment_webpay
+	url = git@github.com:dansanti/payment_webpay.git
+	branch = master
